@@ -1,0 +1,634 @@
+# Telegram Video URLs
+# Gerado em: 12/16/2025, 10:30:35 AM
+# Total de vídeos: 105
+
+## Vídeo 1
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_001.mp4
+Size: 899.76 MB
+Message ID: 2
+URL: https://t.me/c/1610585369/2
+
+## Vídeo 2
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_002.mp4
+Size: 167.45 MB
+Message ID: 3
+URL: https://t.me/c/1610585369/3
+
+## Vídeo 3
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_003.mp4
+Size: 980.25 MB
+Message ID: 4
+URL: https://t.me/c/1610585369/4
+
+## Vídeo 4
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_004.mp4
+Size: 958.54 MB
+Message ID: 5
+URL: https://t.me/c/1610585369/5
+
+## Vídeo 5
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_005.mp4
+Size: 799.07 MB
+Message ID: 6
+URL: https://t.me/c/1610585369/6
+
+## Vídeo 6
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_006.mp4
+Size: 838.76 MB
+Message ID: 7
+URL: https://t.me/c/1610585369/7
+
+## Vídeo 7
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_007.mp4
+Size: 904.80 MB
+Message ID: 8
+URL: https://t.me/c/1610585369/8
+
+## Vídeo 8
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_008.mp4
+Size: 958.46 MB
+Message ID: 9
+URL: https://t.me/c/1610585369/9
+
+## Vídeo 9
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_009.mp4
+Size: 999.41 MB
+Message ID: 10
+URL: https://t.me/c/1610585369/10
+
+## Vídeo 10
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_010.mp4
+Size: 957.28 MB
+Message ID: 11
+URL: https://t.me/c/1610585369/11
+
+## Vídeo 11
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_011.mp4
+Size: 944.30 MB
+Message ID: 12
+URL: https://t.me/c/1610585369/12
+
+## Vídeo 12
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_012.mp4
+Size: 823.86 MB
+Message ID: 13
+URL: https://t.me/c/1610585369/13
+
+## Vídeo 13
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_013.mp4
+Size: 901.20 MB
+Message ID: 14
+URL: https://t.me/c/1610585369/14
+
+## Vídeo 14
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_014.mp4
+Size: 218.82 MB
+Message ID: 15
+URL: https://t.me/c/1610585369/15
+
+## Vídeo 15
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_015.mp4
+Size: 849.07 MB
+Message ID: 16
+URL: https://t.me/c/1610585369/16
+
+## Vídeo 16
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_016.mp4
+Size: 636.78 MB
+Message ID: 17
+URL: https://t.me/c/1610585369/17
+
+## Vídeo 17
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_017.mp4
+Size: 955.34 MB
+Message ID: 18
+URL: https://t.me/c/1610585369/18
+
+## Vídeo 18
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_018.mp4
+Size: 975.45 MB
+Message ID: 19
+URL: https://t.me/c/1610585369/19
+
+## Vídeo 19
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_019.mp4
+Size: 908.05 MB
+Message ID: 20
+URL: https://t.me/c/1610585369/20
+
+## Vídeo 20
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_020.mp4
+Size: 784.39 MB
+Message ID: 21
+URL: https://t.me/c/1610585369/21
+
+## Vídeo 21
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_021.mp4
+Size: 994.74 MB
+Message ID: 22
+URL: https://t.me/c/1610585369/22
+
+## Vídeo 22
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_022.mp4
+Size: 846.52 MB
+Message ID: 23
+URL: https://t.me/c/1610585369/23
+
+## Vídeo 23
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_023.mp4
+Size: 698.36 MB
+Message ID: 24
+URL: https://t.me/c/1610585369/24
+
+## Vídeo 24
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_024.mp4
+Size: 920.08 MB
+Message ID: 25
+URL: https://t.me/c/1610585369/25
+
+## Vídeo 25
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_025.mp4
+Size: 124.46 MB
+Message ID: 26
+URL: https://t.me/c/1610585369/26
+
+## Vídeo 26
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_026.mp4
+Size: 895.02 MB
+Message ID: 27
+URL: https://t.me/c/1610585369/27
+
+## Vídeo 27
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_027.mp4
+Size: 837.70 MB
+Message ID: 28
+URL: https://t.me/c/1610585369/28
+
+## Vídeo 28
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_028.mp4
+Size: 879.94 MB
+Message ID: 29
+URL: https://t.me/c/1610585369/29
+
+## Vídeo 29
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_029.mp4
+Size: 910.13 MB
+Message ID: 30
+URL: https://t.me/c/1610585369/30
+
+## Vídeo 30
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_030.mp4
+Size: 936.87 MB
+Message ID: 31
+URL: https://t.me/c/1610585369/31
+
+## Vídeo 31
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_031.mp4
+Size: 913.73 MB
+Message ID: 32
+URL: https://t.me/c/1610585369/32
+
+## Vídeo 32
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_032.mp4
+Size: 775.53 MB
+Message ID: 33
+URL: https://t.me/c/1610585369/33
+
+## Vídeo 33
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_033.mp4
+Size: 874.16 MB
+Message ID: 34
+URL: https://t.me/c/1610585369/34
+
+## Vídeo 34
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_034.mp4
+Size: 986.67 MB
+Message ID: 35
+URL: https://t.me/c/1610585369/35
+
+## Vídeo 35
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_035.mp4
+Size: 703.04 MB
+Message ID: 36
+URL: https://t.me/c/1610585369/36
+
+## Vídeo 36
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_036.mp4
+Size: 900.33 MB
+Message ID: 37
+URL: https://t.me/c/1610585369/37
+
+## Vídeo 37
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_037.mp4
+Size: 450.10 MB
+Message ID: 38
+URL: https://t.me/c/1610585369/38
+
+## Vídeo 38
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_038.mp4
+Size: 980.43 MB
+Message ID: 39
+URL: https://t.me/c/1610585369/39
+
+## Vídeo 39
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_039.mp4
+Size: 961.17 MB
+Message ID: 40
+URL: https://t.me/c/1610585369/40
+
+## Vídeo 40
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_040.mp4
+Size: 837.56 MB
+Message ID: 41
+URL: https://t.me/c/1610585369/41
+
+## Vídeo 41
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_041.mp4
+Size: 796.04 MB
+Message ID: 42
+URL: https://t.me/c/1610585369/42
+
+## Vídeo 42
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_042.mp4
+Size: 876.33 MB
+Message ID: 43
+URL: https://t.me/c/1610585369/43
+
+## Vídeo 43
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_043.mp4
+Size: 936.61 MB
+Message ID: 44
+URL: https://t.me/c/1610585369/44
+
+## Vídeo 44
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_044.mp4
+Size: 179.51 MB
+Message ID: 45
+URL: https://t.me/c/1610585369/45
+
+## Vídeo 45
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_045.mp4
+Size: 885.83 MB
+Message ID: 46
+URL: https://t.me/c/1610585369/46
+
+## Vídeo 46
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_046.mp4
+Size: 646.42 MB
+Message ID: 47
+URL: https://t.me/c/1610585369/47
+
+## Vídeo 47
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_047.mp4
+Size: 841.55 MB
+Message ID: 48
+URL: https://t.me/c/1610585369/48
+
+## Vídeo 48
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_048.mp4
+Size: 995.08 MB
+Message ID: 49
+URL: https://t.me/c/1610585369/49
+
+## Vídeo 49
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_049.mp4
+Size: 116.01 MB
+Message ID: 50
+URL: https://t.me/c/1610585369/50
+
+## Vídeo 50
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_050.mp4
+Size: 883.62 MB
+Message ID: 51
+URL: https://t.me/c/1610585369/51
+
+## Vídeo 51
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_051.mp4
+Size: 649.86 MB
+Message ID: 52
+URL: https://t.me/c/1610585369/52
+
+## Vídeo 52
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_052.mp4
+Size: 555.12 MB
+Message ID: 53
+URL: https://t.me/c/1610585369/53
+
+## Vídeo 53
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_053.mp4
+Size: 920.88 MB
+Message ID: 54
+URL: https://t.me/c/1610585369/54
+
+## Vídeo 54
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_054.mp4
+Size: 962.38 MB
+Message ID: 55
+URL: https://t.me/c/1610585369/55
+
+## Vídeo 55
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_055.mp4
+Size: 970.12 MB
+Message ID: 56
+URL: https://t.me/c/1610585369/56
+
+## Vídeo 56
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_056.mp4
+Size: 926.65 MB
+Message ID: 57
+URL: https://t.me/c/1610585369/57
+
+## Vídeo 57
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_057.mp4
+Size: 719.81 MB
+Message ID: 58
+URL: https://t.me/c/1610585369/58
+
+## Vídeo 58
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_058.mp4
+Size: 1000.12 MB
+Message ID: 59
+URL: https://t.me/c/1610585369/59
+
+## Vídeo 59
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_059.mp4
+Size: 842.20 MB
+Message ID: 60
+URL: https://t.me/c/1610585369/60
+
+## Vídeo 60
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_060.mp4
+Size: 972.86 MB
+Message ID: 61
+URL: https://t.me/c/1610585369/61
+
+## Vídeo 61
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_061.mp4
+Size: 705.07 MB
+Message ID: 62
+URL: https://t.me/c/1610585369/62
+
+## Vídeo 62
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_062.mp4
+Size: 927.72 MB
+Message ID: 63
+URL: https://t.me/c/1610585369/63
+
+## Vídeo 63
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_063.mp4
+Size: 944.23 MB
+Message ID: 64
+URL: https://t.me/c/1610585369/64
+
+## Vídeo 64
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_064.mp4
+Size: 939.49 MB
+Message ID: 65
+URL: https://t.me/c/1610585369/65
+
+## Vídeo 65
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_065.mp4
+Size: 720.00 MB
+Message ID: 66
+URL: https://t.me/c/1610585369/66
+
+## Vídeo 66
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_066.mp4
+Size: 922.52 MB
+Message ID: 67
+URL: https://t.me/c/1610585369/67
+
+## Vídeo 67
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_067.mp4
+Size: 711.49 MB
+Message ID: 68
+URL: https://t.me/c/1610585369/68
+
+## Vídeo 68
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_068.mp4
+Size: 931.02 MB
+Message ID: 69
+URL: https://t.me/c/1610585369/69
+
+## Vídeo 69
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_069.mp4
+Size: 854.61 MB
+Message ID: 70
+URL: https://t.me/c/1610585369/70
+
+## Vídeo 70
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_070.mp4
+Size: 901.01 MB
+Message ID: 71
+URL: https://t.me/c/1610585369/71
+
+## Vídeo 71
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_071.mp4
+Size: 963.39 MB
+Message ID: 72
+URL: https://t.me/c/1610585369/72
+
+## Vídeo 72
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_072.mp4
+Size: 810.04 MB
+Message ID: 73
+URL: https://t.me/c/1610585369/73
+
+## Vídeo 73
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_073.mp4
+Size: 969.04 MB
+Message ID: 74
+URL: https://t.me/c/1610585369/74
+
+## Vídeo 74
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_074.mp4
+Size: 936.05 MB
+Message ID: 75
+URL: https://t.me/c/1610585369/75
+
+## Vídeo 75
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_075.mp4
+Size: 984.30 MB
+Message ID: 76
+URL: https://t.me/c/1610585369/76
+
+## Vídeo 76
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_076.mp4
+Size: 897.39 MB
+Message ID: 77
+URL: https://t.me/c/1610585369/77
+
+## Vídeo 77
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_077.mp4
+Size: 914.89 MB
+Message ID: 78
+URL: https://t.me/c/1610585369/78
+
+## Vídeo 78
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_078.mp4
+Size: 862.78 MB
+Message ID: 79
+URL: https://t.me/c/1610585369/79
+
+## Vídeo 79
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_079.mp4
+Size: 466.61 MB
+Message ID: 80
+URL: https://t.me/c/1610585369/80
+
+## Vídeo 80
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_080.mp4
+Size: 803.79 MB
+Message ID: 81
+URL: https://t.me/c/1610585369/81
+
+## Vídeo 81
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_081.mp4
+Size: 786.46 MB
+Message ID: 82
+URL: https://t.me/c/1610585369/82
+
+## Vídeo 82
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_082.mp4
+Size: 797.93 MB
+Message ID: 83
+URL: https://t.me/c/1610585369/83
+
+## Vídeo 83
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_083.mp4
+Size: 996.55 MB
+Message ID: 84
+URL: https://t.me/c/1610585369/84
+
+## Vídeo 84
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_084.mp4
+Size: 953.56 MB
+Message ID: 85
+URL: https://t.me/c/1610585369/85
+
+## Vídeo 85
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_085.mp4
+Size: 823.70 MB
+Message ID: 86
+URL: https://t.me/c/1610585369/86
+
+## Vídeo 86
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_086.mp4
+Size: 951.30 MB
+Message ID: 87
+URL: https://t.me/c/1610585369/87
+
+## Vídeo 87
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_087.mp4
+Size: 995.93 MB
+Message ID: 88
+URL: https://t.me/c/1610585369/88
+
+## Vídeo 88
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_088.mp4
+Size: 773.40 MB
+Message ID: 89
+URL: https://t.me/c/1610585369/89
+
+## Vídeo 89
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_089.mp4
+Size: 978.08 MB
+Message ID: 90
+URL: https://t.me/c/1610585369/90
+
+## Vídeo 90
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_090.mp4
+Size: 871.98 MB
+Message ID: 91
+URL: https://t.me/c/1610585369/91
+
+## Vídeo 91
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_091.mp4
+Size: 530.78 MB
+Message ID: 92
+URL: https://t.me/c/1610585369/92
+
+## Vídeo 92
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_092.mp4
+Size: 74.78 MB
+Message ID: 93
+URL: https://t.me/c/1610585369/93
+
+## Vídeo 93
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_093.mp4
+Size: 984.83 MB
+Message ID: 94
+URL: https://t.me/c/1610585369/94
+
+## Vídeo 94
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_094.mp4
+Size: 329.30 MB
+Message ID: 95
+URL: https://t.me/c/1610585369/95
+
+## Vídeo 95
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_095.mp4
+Size: 766.47 MB
+Message ID: 96
+URL: https://t.me/c/1610585369/96
+
+## Vídeo 96
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_096.mp4
+Size: 461.25 MB
+Message ID: 97
+URL: https://t.me/c/1610585369/97
+
+## Vídeo 97
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_097.mp4
+Size: 405.70 MB
+Message ID: 98
+URL: https://t.me/c/1610585369/98
+
+## Vídeo 98
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_098.mp4
+Size: 867.86 MB
+Message ID: 99
+URL: https://t.me/c/1610585369/99
+
+## Vídeo 99
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_099.mp4
+Size: 503.51 MB
+Message ID: 100
+URL: https://t.me/c/1610585369/100
+
+## Vídeo 100
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_100.mp4
+Size: 971.32 MB
+Message ID: 101
+URL: https://t.me/c/1610585369/101
+
+## Vídeo 101
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_101.mp4
+Size: 416.99 MB
+Message ID: 102
+URL: https://t.me/c/1610585369/102
+
+## Vídeo 102
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_102.mp4
+Size: 889.69 MB
+Message ID: 103
+URL: https://t.me/c/1610585369/103
+
+## Vídeo 103
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_103.mp4
+Size: 144.85 MB
+Message ID: 104
+URL: https://t.me/c/1610585369/104
+
+## Vídeo 104
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_104.mp4
+Size: 353.35 MB
+Message ID: 105
+URL: https://t.me/c/1610585369/105
+
+## Vídeo 105
+Filename: Java_2021_COMPLETO_Do_Zero_ao_Profissional_Projetos_Cod3r_105.mp4
+Size: 57.32 MB
+Message ID: 106
+URL: https://t.me/c/1610585369/106
+
